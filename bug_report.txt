@@ -1,0 +1,21 @@
+id - 
+Summary - 
+Project - 
+Version - 
+Severity - 
+Priority - 
+Status - 
+Author - 
+Assigned To - 
+Description:
+  Precondition:
+    1 - 
+    2 - 
+  Environment - 
+  Steps_to_reproduce:
+    1 - 
+    2 - 
+    3 - 
+  Actual_result - 
+  Expected result - 
+Attachment - 
